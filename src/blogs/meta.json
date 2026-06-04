@@ -1,5 +1,19 @@
 [
   {
+    "id": "shiny-object-syndrome",
+    "markdown": "shiny-object-syndrome.md",
+    "title": "Shiny Object Syndrome",
+    "author": "Gavin Loo",
+    "date": "5 June 2026",
+    "subtitle": "My personal thoughts on the AI boom in the software industry (2026).",
+    "tags": [
+      "software engineering",
+      "craftsmanship",
+      "artificial intelligence"
+    ],
+    "hero_image": "/blogs/reminder-to-myself/vortex.jpg"
+  },
+  {
     "id": "software-testing",
     "markdown": "software-testing.md",
     "title": "Software Testing",

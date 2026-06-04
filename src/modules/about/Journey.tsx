@@ -21,7 +21,7 @@ function Journey() {
           </p>
 
           <p className="font-customInter tracking-wide mt-4">
-            Then National Service happened, and I was introduced to
+            Then I went to the military, and I was introduced to
             finance/trading through friends. I got hooked and spent a lot of time
             refining trading strategies. That journey eventually led me to
             automated trading, which meant learning to code. I picked up Python to
@@ -29,16 +29,12 @@ function Journey() {
           </p>
 
           <p className="font-customInter tracking-wide mt-4">
-            When it came time to choose a degree, I decided on Software
-            Engineering. I kept building side projects nonstop, from trading bots
-            and strategy experiments to CRUD applications and web projects with
-            HTML, CSS, and JavaScript.
+            When it came time to choose a degree, I decided to YOLO into Software
+            Engineering. Had a blast in college learning, tinkering, and experimenting, somehow it's been 5 years. What I found worked for me was applying my craftsman mindset (from music) into software - giving my heart and soul, and being authentic with the craft. I'm always working on being the best engineer I can be.
           </p>
 
           <p className="font-customInter tracking-wide mt-4">
-            Eventually, I landed an internship at Standard Chartered, and I’ll
-            always be eternally grateful for the opportunity to kickstart my professional
-            career. I was placed in the API Gateway team and learnt a bunch along the way, focusing on mastering the fundamentals and getting the basics right - something I picked up from music. The rest is history!
+            Some of the concepts that shaped my learning was deliberate practice, understanding the Dunning Kruger effect, being curious, and copying/researching what worked for the greats.
           </p>
 
         </div>
